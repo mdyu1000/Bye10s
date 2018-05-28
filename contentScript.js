@@ -1,2 +1,2 @@
-$(".close2")[0].click();
-// setTimeout(function(){  }, 100);
+$("#viptoneWindow").hide();
+// $(".close2")[0].click();
